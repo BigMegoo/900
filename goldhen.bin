@@ -102,7 +102,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="1222:291E:3714F513:37D83BE0:654FEE10" data-pjax-transient="true"/><meta name="html-safe-nonce" content="2fe504bf2b519811513c8a33902f0f0d48643442856440f38a21c48e07d858fc" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9pc2ZheWVlZC85MDA/c2VhcmNoPTEiLCJyZXF1ZXN0X2lkIjoiMTIyMjoyOTFFOjM3MTRGNTEzOjM3RDgzQkUwOjY1NEZFRTEwIiwidmlzaXRvcl9pZCI6IjUxMTk5NjA5NjI1NjA5NDU0NDQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="36468769bc803ec89877efb4cabd0ac397072ba04b5ec6e51d6937b1fbe474cb" data-pjax-transient="true"/>
+  <meta name="request-id" content="2F82:1361A:3701C7D0:37C70A3B:65501104" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b51d99bf767afe5b37f1cf70437dbe5047351381a3e6bea32a633124d7a72230" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9pc2ZheWVlZC85MDAiLCJyZXF1ZXN0X2lkIjoiMkY4MjoxMzYxQTozNzAxQzdEMDozN0M3MEEzQjo2NTUwMTEwNCIsInZpc2l0b3JfaWQiOiIxODA0OTg5MTI3NzIyMDA5MzM3IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="daec4d461bc9921f3c09f5987acbfe8b1a46c6a69c61e925d933c88a29315077" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:628477401" data-turbo-transient>
@@ -187,6 +187,8 @@
 <meta name="theme-color" content="#1e2327">
 <meta name="color-scheme" content="light dark" />
 
+  <meta name="msapplication-TileImage" content="/windows-tile.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
 
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
 
@@ -604,7 +606,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:bigmegoo/900" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="DygYT519Qbe0dnD8udBOC1cSHxqrWrE3cb4WuzIkHhA_0TG39pRMpn0pX32InK9CzaFV4T6wdglZiXeeI2oVww" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="bigmegoo/900" data-current-org="" data-current-owner="bigmegoo" data-logged-in="false">
+<qbsearch-input class="search-input" data-scope="repo:bigmegoo/900" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="_5KRA3ohYoN6-fbOsHlMzZRYrTEht4IdkxOpqRgizujxIYlHvxxIVp6jmTfaJwFYwL8FcIn4tyGf8GymavahgA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="bigmegoo/900" data-current-org="" data-current-owner="bigmegoo" data-logged-in="false">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -666,7 +668,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-ce9dd28d-f540-4838-96f7-c156cdeca74e" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-b200994f-ed91-4063-a70f-cf13d7049c25" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -772,7 +774,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-ce9dd28d-f540-4838-96f7-c156cdeca74e" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-b200994f-ed91-4063-a70f-cf13d7049c25" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -812,7 +814,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="/2wdFGRBMlr5qzk5eVtIVxzAowDAYBgOtqrOB6+5+nZCP6SH3qXXEuarRtpEc9augViXVvyhbO2tQIE8102jUQ==" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="67JNvNy1IrmS0/3u3nD2EZJgJxSL9Z8P2bIjfa0OAK1u92e2Z9SAg1yFYZ3ihXHsT+D4KW8ralfPJgbglpsFZA==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -847,7 +849,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="zaFH/xYzJGYO+EtrYdwSAy+oHK70w8icBXePaHUqVswdSRi7o2zqOwX4qeQN1PQdLXcVmdRRIVOeBodyf4vOcw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="OuLbe1GGjkgUG08KBkxT+5dPb0TCwYKwFlqdiui2lJACapjKxNiuNLdTeAXhaTgsSmlsgYs/c6RGmDbYaZKTrA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -865,7 +867,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="fr1lQLCgaZS0mMiMIwNurPwBIWnueQvfVZzvwHGsooNprjkdLfxyvtUvsQZbClqFSor+AlNB8zs+3jKCYk08nw==" />
+              <input type="hidden" data-csrf="true" value="kxIVMymBrAhVm0DxA3gJRN3PejXFuF4WavgLD5atXd7zGLCnKhaaeyEDGloLzDX4bvRvhKcw1eMgeXzz5yM0fg==" />
             </auto-check>
           </div>
 
@@ -901,7 +903,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="GevTyg4SSeRMVWLGuf004onNNIx+qhCEol4sRA69xrGcKlVgfropJ/Id5GD3hJvjgEv4sYl3lpAPCEUO3bZxRw==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="rH0QM/An5lDVkI6evPNoNqWfz745NjNiUyK1i0acgpzi2ZFzpYEymipgvlQqSI8U3OtV7E7yNPoRvY/lS70ZIw==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -936,10 +938,10 @@
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
     <div data-view-component="true" class="flash-close">
-  <button id="icon-button-37bec7b6-e025-45f9-b994-10ef9cbdd7e1" aria-labelledby="tooltip-e07aaf35-e27a-4ae3-9029-5ecb4d7072cf" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium js-flash-close">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+  <button id="icon-button-392b36bf-7b71-45c4-95a8-053c7f291620" aria-labelledby="tooltip-e56a3c81-e6e8-40fd-9517-0cccf13a9766" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium js-flash-close">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button>  <tool-tip id="tooltip-e07aaf35-e27a-4ae3-9029-5ecb4d7072cf" for="icon-button-37bec7b6-e025-45f9-b994-10ef9cbdd7e1" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button>  <tool-tip id="tooltip-e56a3c81-e6e8-40fd-9517-0cccf13a9766" for="icon-button-392b36bf-7b71-45c4-95a8-053c7f291620" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </div>
 
   
@@ -1233,7 +1235,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"BigMegoo.cache","path":"BigMegoo.cache","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"exploit.js","path":"exploit.js","contentType":"file"},{"name":"goldhen.bin","path":"goldhen.bin","contentType":"file"},{"name":"host.jpg","path":"host.jpg","contentType":"file"},{"name":"index.html","path":"index.html","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":2.741249,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":628477401,"defaultBranch":"main","name":"900","ownerLogin":"bigmegoo","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-04-16T04:08:28.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/126515235?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1692730724.0","canEdit":false,"refType":"branch","currentOid":"cdd8ae2fc0797e848c1e3cd9262577a5e0ea19ef"},"path":"goldhen.bin","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/bigmegoo/900/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/bigmegoo/900/security/dependabot","repoSecurityAndAnalysisPath":"/bigmegoo/900/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"goldhen.bin","displayUrl":"https://github.com/bigmegoo/900/blob/main/goldhen.bin?raw=true","headerInfo":{"blobSize":"286 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"63a719e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fbigmegoo%2F900%2Fblob%2Fmain%2Fgoldhen.bin","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/bigmegoo/900/discussions/new","newIssuePath":"/bigmegoo/900/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/bigmegoo/900/blob/main/goldhen.bin","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/bigmegoo/900/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/bigmegoo/900/raw/main/goldhen.bin","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"bigmegoo","repoName":"900","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/bigmegoo/900/branches":{"post":"91JwT1GUQUO5siKXeCNZX1DK5sZ6hJrk8zGwtf_vHxgVtgBrSfS6D_jmIV9oQ6FK_wEMwMELz4ZIQ_SzpWlyxA"},"/repos/preferences":{"post":"SX7FRA0XFNXKUH20E82mvZGGadN516QEirk17TLNnJOaHUNrmjXP74YrTdCh0WM_M-rOBMv3YJuZ8zXgMTXSHQ"}}},"title":"900/goldhen.bin at main · bigmegoo/900","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-ce6d5c15d2a1.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_conversational_ux_streaming":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"BigMegoo.cache","path":"BigMegoo.cache","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"exploit.js","path":"exploit.js","contentType":"file"},{"name":"goldhen.bin","path":"goldhen.bin","contentType":"file"},{"name":"host.jpg","path":"host.jpg","contentType":"file"},{"name":"index.html","path":"index.html","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":2.341971,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":628477401,"defaultBranch":"main","name":"900","ownerLogin":"bigmegoo","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-04-16T04:08:28.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/126515235?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1692730724.0","canEdit":false,"refType":"branch","currentOid":"cdd8ae2fc0797e848c1e3cd9262577a5e0ea19ef"},"path":"goldhen.bin","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/bigmegoo/900/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/bigmegoo/900/security/dependabot","repoSecurityAndAnalysisPath":"/bigmegoo/900/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"goldhen.bin","displayUrl":"https://github.com/bigmegoo/900/blob/main/goldhen.bin?raw=true","headerInfo":{"blobSize":"286 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"63a719e","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fbigmegoo%2F900%2Fblob%2Fmain%2Fgoldhen.bin","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/bigmegoo/900/discussions/new","newIssuePath":"/bigmegoo/900/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/bigmegoo/900/blob/main/goldhen.bin","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/bigmegoo/900/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/bigmegoo/900/raw/main/goldhen.bin","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"bigmegoo","repoName":"900","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/bigmegoo/900/branches":{"post":"iBg736sywegF7Sz_Skha7-SICqWfrYQDsNOx0gKrOnr7H_OrLT4zlKZjSS4zpB8bJ3RquARKHoKzwAmiJO1VbA"},"/repos/preferences":{"post":"mMmRg69QYMXhvd_Ah0hu_dU1cgqeXDaFxsJnfcZY0s5eoyK3UiAuxW2nOdVovMQbDHubwLKLFAvspdoOx1eQHQ"}}},"title":"900/goldhen.bin at main · bigmegoo/900","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-ce6d5c15d2a1.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_conversational_ux_streaming":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
